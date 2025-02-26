@@ -37,6 +37,7 @@ Then, run:
 venv\Scripts\activate  # Windows
 source venv/bin/activate  # macOS/Linux
 ```
+(Note, after having used the application, you can simply enter `deactivate` in the terminal to deactivate the virtual environment. The next time you'd like to run the application, just navigate to the project folder and then run `venv\Scripts\activate` again.)
 ### :three: Install the required dependencies:
 Upon activation of the virtual environment, run:
 ```
