@@ -1,0 +1,103 @@
+label|message
+SPAM|Congratulations! You've won a free iPhone! Click here to claim.
+HAM|Hey, are we still meeting at 5?
+SPAM|URGENT! Your account has been compromised. Reset your password now.
+HAM|Can you send me the notes from yesterday’s class?
+SPAM|You have been selected for a FREE vacation! Call now to claim.
+HAM|Are you coming to the football match tomorrow?
+SPAM|Earn $5000 per week from home. Limited offer! Sign up today.
+HAM|Let's grab lunch at our usual place.
+SPAM|You have an unclaimed lottery prize. Click the link to receive it.
+HAM|I'll call you in the evening to discuss the project.
+SPAM|Act now! Get a 50% discount on our premium service.
+HAM|Did you complete the assignment for Monday?
+SPAM|Get rich quick! Invest in our new crypto platform today.
+HAM|Please let me know when you’re free for a quick chat.
+SPAM|This is your last chance to extend your car’s warranty. Call now!
+HAM|Can you pick up some groceries on your way home?
+SPAM|Win a brand new PlayStation 5! Just enter your email to qualify.
+HAM|I hope you’re feeling better today. Let me know if you need anything.
+SPAM|You’ve been pre-approved for a $10,000 loan. No credit check needed!
+HAM|What time are we meeting for the group study session?
+SPAM|Limited time offer: Buy one, get one free on all supplements!
+HAM|Have you finished watching that new series yet?
+SPAM|Exclusive deal! Click here to claim your discount before it expires.
+HAM|Mom said dinner is at 7. Don’t be late!
+SPAM|Get a free gift card by answering this short survey!
+HAM|Let’s go for a walk in the park later.
+SPAM|Hot singles in your area are waiting to chat with you!
+HAM|I just sent you the file. Let me know if you received it.
+SPAM|Earn money fast with this one simple trick!
+HAM|I left my book at your place. Can you bring it tomorrow?
+SPAM|Congratulations! You have won a free gift. Claim now!
+HAM|Are you free to help me with my assignment?
+SPAM|Important update: Your PayPal account needs verification.
+HAM|We’re meeting at the library at 3 PM.
+SPAM|Hurry! Your Netflix subscription is about to expire. Renew now.
+HAM|Can you remind me to call Grandma tomorrow?
+SPAM|You have a pending refund of $500. Click here to claim.
+HAM|I got a new job! Let’s celebrate this weekend.
+SPAM|Double your money in just 24 hours with our investment scheme!
+HAM|Don’t forget to bring your charger to class.
+SPAM|Your order has been shipped! Track it here.
+HAM|I’ll be late today. Stuck in traffic.
+SPAM|You’ve been selected to test the new iPhone! Sign up now.
+HAM|Do you want to grab coffee after work?
+SPAM|Your Amazon account has been locked. Click here to fix it.
+HAM|Are you still watching that show we started?
+SPAM|Earn passive income effortlessly. Sign up today!
+HAM|What’s the plan for the weekend?
+SPAM|Congratulations! Your number was randomly chosen for a cash prize!
+HAM|Just finished my workout. Feeling great!
+SPAM|Invest now and turn $100 into $10,000 instantly!
+HAM|Remember to submit the report by Friday.
+SPAM|Warning: Your computer is infected! Download our antivirus now.
+HAM|Can you call me when you’re free?
+SPAM|Lowest mortgage rates available! Get approved now.
+HAM|I left my wallet at your place. Can you check?
+SPAM|Huge clearance sale! Up to 80% off on all items!
+HAM|We need to decide on the venue for the party.
+SPAM|Your credit score has changed. Check your report now.
+HAM|I finally finished that book you recommended!
+SPAM|Breaking news: You could be the next millionaire! Enter now.
+HAM|Let's meet up for lunch tomorrow.
+SPAM|Limited seats available for this exclusive webinar. Register now!
+HAM|I can’t wait to see you this weekend.
+SPAM|Your insurance policy is expiring. Renew it today!
+HAM|Just landed! I’ll text you when I get my luggage.
+SPAM|Your social security number has been compromised. Act now!
+HAM|I need your advice on something. Can we talk?
+SPAM|Hot stock tips! Invest now for big returns.
+HAM|Guess what? I finally got the promotion!
+SPAM|Unlock premium content for FREE! Click here now.
+HAM|Can you send me the address for tonight’s event?
+SPAM|Massive giveaway! Win a brand-new car today!
+HAM|I just finished cooking. Want to come over?
+SPAM|Crypto investment opportunity! Double your money in 7 days.
+HAM|We should plan a trip soon.
+SPAM|Your delivery is on the way! Track it here.
+HAM|Had a great time catching up with you today.
+SPAM|Win exclusive VIP tickets! Sign up before midnight.
+HAM|Do you want me to bring anything for the picnic?
+SPAM|Hurry! Your bank account has been flagged for suspicious activity.
+HAM|I need to reschedule our meeting. How’s Thursday?
+SPAM|Flash sale! Get up to 90% off on electronics.
+HAM|The weather looks great today. Let’s go hiking.
+SPAM|Warning! Your Facebook account has been hacked.
+HAM|That movie you recommended was amazing!
+SPAM|You are eligible for a free iPad! Claim now.
+HAM|I have a surprise for you. Can’t wait to tell you!
+SPAM|Your loan application has been approved! Click here to proceed.
+HAM|Let me know if you’re free for a quick call.
+SPAM|Secret trick to lose weight instantly! Try it now.
+HAM|Just booked my tickets for the concert!
+SPAM|Your email has been compromised! Change your password now.
+HAM|That new café looks nice. Let’s check it out.
+SPAM|Hurry! Only a few spots left in our special training program.
+HAM|Hope you’re having a great day!
+SPAM|Breaking: Scientists discover a way to make easy money fast!
+HAM|Don’t forget about our dinner plans tomorrow.
+SPAM|Get a brand-new laptop for just $1! Limited time offer.
+HAM|I’ll be home late tonight, don’t wait up.
+SPAM|Unlock exclusive benefits by upgrading your membership today!
+HAM|Can you believe what happened in today’s game?
